@@ -28,7 +28,7 @@ This project extracts text from documents, generates dense vector embeddings, bu
 ## Project Structure
 
 ```text
-main.ipynb    # Complete semantic search implementation
+Semantic-Document-Search.ipynb    # Complete semantic search implementation
 ```
 
 ## Workflow
