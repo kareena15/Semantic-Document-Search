@@ -1,6 +1,6 @@
 # Semantic Search with FAISS and Sentence Transformers
 
-A semantic search engine that uses **Sentence Transformers** and **FAISS** to retrieve the most relevant document content based on meaning rather than keyword matching. The system supports **PDF, DOCX, and TXT** files.
+A semantic search engine that uses Sentence Transformers and FAISS to retrieve the most relevant document content based on meaning rather than keyword matching. The system supports PDF, DOCX and TXT files.
 
 ## Overview
 
@@ -10,7 +10,7 @@ This project extracts text from documents, generates dense vector embeddings, bu
 
 * Supports PDF, DOCX, and TXT files
 * Automatic text extraction and chunking
-* Embedding generation using **all-MiniLM-L6-v2**
+* Embedding generation using all-MiniLM-L6-v2
 * High-speed semantic search with FAISS
 * Ranked search results with similarity scores
 
